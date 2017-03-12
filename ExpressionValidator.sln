@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "ExpressionValidator\Program.csproj", "{26CF6CCF-9E9B-409E-BF9F-457713447443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionValidator", "Validator\ExpressionValidator.csproj", "{3D0CD5D5-314E-4FE6-B4F7-B30E87AEF753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CF6CCF-9E9B-409E-BF9F-457713447443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CF6CCF-9E9B-409E-BF9F-457713447443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CF6CCF-9E9B-409E-BF9F-457713447443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CF6CCF-9E9B-409E-BF9F-457713447443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0CD5D5-314E-4FE6-B4F7-B30E87AEF753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0CD5D5-314E-4FE6-B4F7-B30E87AEF753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0CD5D5-314E-4FE6-B4F7-B30E87AEF753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0CD5D5-314E-4FE6-B4F7-B30E87AEF753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
